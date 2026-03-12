@@ -1,0 +1,20 @@
+body{
+margin:0;
+font-family:Arial;
+}
+
+.footer{
+display:flex;
+justify-content:space-around;
+background:#222;
+color:white;
+padding:30px;
+}
+
+.column h3{
+margin-buttom:10px;
+}
+
+.column p{
+margin:5px 0;
+}
